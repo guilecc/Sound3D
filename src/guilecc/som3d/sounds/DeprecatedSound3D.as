@@ -15,7 +15,7 @@ package guilecc.som3d.sounds
 	/**
 	 * The class represents a sound used in the demo.
 	 */
-	public class Sound3D {
+	public class DeprecatedSound3D {
 
 		private var loaded:Boolean = false;
 		
